@@ -1,0 +1,14 @@
+nav.header_nav {
+    ul{
+        @include reset_list();
+        gap: 30px;
+        li a{
+            text-decoration: none;
+            font-size: 14px;
+            color: $blue;
+            &:hover{
+                color: $cyan;
+            }
+        }
+    }
+}

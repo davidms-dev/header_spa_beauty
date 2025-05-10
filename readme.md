@@ -1,0 +1,1 @@
+![Imagen proyecto](project06_img.png)
